@@ -50,7 +50,7 @@ ReactDOM.render(
 
 ###Get the Data
 
-* Take a look at the Star Wars API docs [here](https://swapi.co/) and look through all of the requirements and things you can do. I will only be going through what is necessary to display the people of Star Wars. When we are done, I would challenge you to set up some logic that runs through and allows you to display the rest of the information including the Planets, Starships, Vehicles, Films, and Species of Star Wars.
+* Take a look at the Star Wars API docs [here](https://swapi.co) and look through all of the requirements and things you can do. I will only be going through what is necessary to display the people of Star Wars. When we are done, I would challenge you to set up some logic that runs through and allows you to display the rest of the information including the Planets, Starships, Vehicles, Films, and Species of Star Wars.
 
 * The first thing we should do is setup our API request and the necessary functions to prompt that. In my application, I set it up so that if you click a button for each data set you get that specific data. You can do it this way or you can just have your app retrieve the data on page load.
 
