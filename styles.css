@@ -2,6 +2,8 @@ body {
   background-image: url("http://oneperfectshotdb.com/wp-content/uploads/2016/05/screen_shot_2016-05-09_at_8.48.00_pm.png");
   color: #fff;
   background-size: contain;
+  width: 100vw;
+  min-height: 100vh;
 }
 
 .person, .speci, .film, .vehicle, .starship, .planet {
