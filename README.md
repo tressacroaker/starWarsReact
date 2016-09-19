@@ -1,4 +1,4 @@
-<img src="http://montanacodeschool.com/wp-content/uploads/2015/06/MCS_LOGO_v1.png" width="200" align="right"/>
+<img src="http://montanacodeschool.com/wp-content/uploads/2016/08/MCS_LOGO_v1-1.png" width="200" align="right"/>
 
 ##Star Wars API
 
@@ -114,7 +114,7 @@ render: function() {
 
 ###Final Touches
 
-* If you have done everything correctly, you should have a fairly crude rendering of each employee. If this is the case, go ahead and add some styles. May the force be with you. 
+* If you have done everything correctly, you should have a fairly crude rendering of each employee. If this is the case, go ahead and add some styles. May the force be with you.
 
 ##Copyright
 
