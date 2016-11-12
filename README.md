@@ -114,7 +114,7 @@ render: function() {
 
 ###Final Touches
 
-* If you have done everything correctly, you should have a fairly crude rendering of each employee. If this is the case, go ahead and add some styles. May the force be with you.
+* If you have done everything correctly, you should have a fairly crude rendering of each person. If this is the case, go ahead and add some styles. Try to get all of the other things in the Star Wars API like species, vehicles, starships, etc. May the force be with you.
 
 ##Copyright
 
